@@ -7,4 +7,4 @@ Finally a classification model was built that finds out whether a student would 
 
 The notebook provided has detailed explanation of all steps along with insights obtained from each of the visvualisations.
 
-Data: 
+Data: [link](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
